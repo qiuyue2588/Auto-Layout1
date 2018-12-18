@@ -92,7 +92,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
-				ORGANIZATIONNAME = student;
+				ORGANIZATIONNAME = qiuyue;
 				TargetAttributes = {
 					3F696FF6218406D100B3A261 = {
 						CreatedOnToolsVersion = 10.0;
@@ -288,7 +288,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-016110327.--1";
+				PRODUCT_BUNDLE_IDENTIFIER = "-016110330.--1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -305,7 +305,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-016110327.--1";
+				PRODUCT_BUNDLE_IDENTIFIER = "-016110330.--1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";

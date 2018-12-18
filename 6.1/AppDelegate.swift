@@ -3,7 +3,7 @@
 //  6.1
 //
 //  Created by student on 2018/10/27.
-//  Copyright © 2018年 student. All rights reserved.
+//  Copyright © 2018年 qiuyue. All rights reserved.
 //
 
 import UIKit
